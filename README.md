@@ -50,7 +50,9 @@ For deleting the Snapshot
 
 We can write a script sanp-del.rb
 very beautifully exaplaned in 
+
 https://github.com/digitalocean/droplet_kit
+
 https://www.digitalocean.com/docs/api/example-usage/
 
 
