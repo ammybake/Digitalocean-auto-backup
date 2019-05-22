@@ -4,11 +4,8 @@
 
 This can be done via ansible and ruby script
 
-1. Using ansible script
+Using Rub Script
 
-
-
-2. Using Rub Script
 Downlad the ruby in your system.
 This command will install and tell you about installed version of rubi.
 curl -sSL https://get.rvm.io | bash -s stable --ruby
